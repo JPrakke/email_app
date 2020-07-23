@@ -8,4 +8,4 @@ Scenario: You are an IT Support Admin Specialist and are charged with the task o
 * Determine the department (sales, Dev, Accounting), if none leave blank.
 * Generate random first password
 * Have set methods to chanfe the password, set mailbox capacity, and define an alternate email address
-* Have get methofs to display the name email and mailbox capacity.
+* Have get methods to display the name email and mailbox capacity.
